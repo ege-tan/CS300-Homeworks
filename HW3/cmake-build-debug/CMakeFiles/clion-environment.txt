@@ -1,0 +1,4 @@
+ToolSet: 1.0 (local)Ninja: 1.12.0@/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja
+Options: 
+
+Options:-DCMAKE_CXX_COMPILER=/opt/homebrew/Cellar/gcc/14.2.0/bin/aarch64-apple-darwin24-c++-14

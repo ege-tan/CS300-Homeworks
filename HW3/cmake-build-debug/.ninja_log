@@ -1,0 +1,8 @@
+# ninja log v6
+1	18	1733556267047912304	/Users/egetan/Desktop/HW3/cmake-build-debug/CMakeFiles/HW3.dir/CXXModules.json	bd1ab217db51f103
+1	71	1733556308548677432	build.ninja	8fdb421e735c34e7
+1	18	1733556267047912304	CMakeFiles/HW3.dir/main.cpp.o.modmap	bd1ab217db51f103
+1	18	1733556267047912304	CMakeFiles/HW3.dir/CXX.dd	bd1ab217db51f103
+1	197	1733556234515978718	CMakeFiles/HW3.dir/main.cpp.o.ddi	e4344cfd4f4e1d90
+1	401	1733556310371109580	CMakeFiles/HW3.dir/main.cpp.o	13322a30afe00e4b
+402	475	1733556310772373743	HW3	c9de42fbdfcea00

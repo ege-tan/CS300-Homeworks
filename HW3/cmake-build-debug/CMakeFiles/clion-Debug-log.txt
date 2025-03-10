@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/opt/homebrew/Cellar/gcc/14.2.0/bin/aarch64-apple-darwin24-c++-14 -G "Unix Makefiles" -S /Users/egetan/Desktop/HW3 -B /Users/egetan/Desktop/HW3/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/egetan/Desktop/HW3/cmake-build-debug
